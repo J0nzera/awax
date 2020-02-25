@@ -1149,16 +1149,23 @@ input::placeholder {
 	}
 
 	.section-happyclients .slide {
-		width: 415px;
+		width: 300px;
 	}
 
 	.section-happyclients .slidearea p {
-		width: 360px;
+		width: 300px;
+	}
+
+	.section-marcas {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
 	}
 
 	.section-marcas img {
-		margin-left: 160px;
-		margin-bottom: 25px;
+		margin-left: 0px;
+		margin-bottom: 30px;
 	}
 
 	.section-prices {
@@ -1169,10 +1176,6 @@ input::placeholder {
 		margin-left: 10px;
 		margin-right: 10px;
 		margin-bottom: 20px;
-	}
-
-	.section-premium .slide {
-		width: 760px;
 	}
 
 	.section-premium .slidearea {
