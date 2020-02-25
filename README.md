@@ -3,4 +3,4 @@
 
 Projeto realizado em aula para colocar em pratica os conhecimentos gerais
 
-</b>Responsividade não pronta</b>
+<b>Responsividade não pronta</b>
