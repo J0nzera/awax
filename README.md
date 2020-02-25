@@ -1,6 +1,6 @@
 # Awax
 <h3><b>B7Web</b></h3>
 
-Projeto realizado em aula para colocar em pratica os conhecimentos gerais
+Projeto realizado em aula para colocar em pratica os conhecimentos gerais.
 
 **Responsividade não pronta**
